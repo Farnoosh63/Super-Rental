@@ -24,5 +24,13 @@
     {
       "title": "Hi there",
       "info": "Another bit of info for you to read."
-    }]
+    }],
+
+    "cities": [{
+    "name": "Portland",
+    "country": "USA"
+  }, {
+    "name": "Seattle",
+    "country": "USA"
+  }]
 }
